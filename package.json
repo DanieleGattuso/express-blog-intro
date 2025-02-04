@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Blog ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanieleGattuso/express-blog-intro.git"
+  },
+  "author": "Daniele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanieleGattuso/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/DanieleGattuso/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
